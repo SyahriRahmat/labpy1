@@ -9,4 +9,5 @@
 # MAKSUD DARI PROGRAM DIATAS ADALAH : <h2>
 
 * Perintah Untuk Memasukkan 3 Buah Bilangan Yang diiginkan
-* Setelah Semua Data Terinputkan, Maka akan Ditampilkan Nilai Yang Paling Besar
+_contoh: 12,13,14_
+* Setelah Semua Data Terinputkan, Maka akan Ditampilkan Nilai Yang Paling Besar yaitu 14
